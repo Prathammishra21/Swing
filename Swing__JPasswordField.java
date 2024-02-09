@@ -1,5 +1,5 @@
 import javax.swing.*;
-public class Swing__Jpassword_01{
+public class Swing__JPasswordField {
     public static void main(String[] args) {
         JFrame frame = new JFrame("JPasswordField");
        JPanel panel = new JPanel();
